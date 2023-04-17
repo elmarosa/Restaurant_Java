@@ -1,4 +1,4 @@
-public class Menu {
+public class menu {
     private String nama;
     private long harga;
 
