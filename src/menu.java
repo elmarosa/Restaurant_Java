@@ -2,11 +2,11 @@ public class menu {
     private String nama;
     private long harga;
 
-    public Menu(){
+    public menu(){
         //Default constructor
     }
 
-    public Menu(String nama, long harga) {
+    public menu(String nama, long harga) {
         this.nama = nama;
         this.harga = harga;
     }
